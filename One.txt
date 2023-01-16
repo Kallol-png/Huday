@@ -1,6 +1,6 @@
 This is none text file.
 My first learning.
-branching somporke aro kissu add korlam
+Added some extra for this issue.
 You have to do hard work for this.
 
 Added some text from test conflict
